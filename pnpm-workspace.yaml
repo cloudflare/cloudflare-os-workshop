@@ -26,7 +26,7 @@ catalog:
   # Exact, not ranged: the transform has to stay on esbuild. Oxc does not lower the Stage-3
   # decorators capnweb-validate's `@validateRpc()` relies on (cloudflare/workers-sdk#12626).
   vite: 7.3.6
-  vite-plus: ^0.2.8
+  vite-plus: ^1.1.0
   vitest: ^4.1.10
   # Exact: temporary event codes require 4.144+, and bootstrap plus all six deployments must use this tested release.
   wrangler: 4.144.0
