@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@cloudflare/vitest-pool-workers": "catalog:",
-    "dompurify": "^3.4.13",
+    "dompurify": "^3.4.17",
     "esbuild": "^0.28.1",
     "typescript": "catalog:",
     "vitest": "catalog:",
